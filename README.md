@@ -23,7 +23,6 @@ A passionate AI/ML Engineer from India!
 I'm an avid Reader, Trekker, Cyclist, and Traveller!
 
 ## 🤝 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/BHANUROCKSTAR5))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-2aa98018b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhanuprakashguntupalli501/machine-learning-6585d7d0e6e7)
 
