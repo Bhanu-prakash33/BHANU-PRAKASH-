@@ -15,7 +15,7 @@ A passionate AI/ML Engineer from India!
 - Computer Vision
 
 ## 🔗 Links
-- 💻 All my projects: [GitHub]([https://github.com/BHANUPRO15221/Bhanu-Prakash-G](https://github.com/))
+- 💻 All my projects: [GitHub][GitHub](https://github.com/BHANUPRO15221/Bhanu-Prakash-G)
 - 📧 Email me: bhanuprakashguntupalli501@gmail.com
 - 🧭 My experiences: [Portfolio](https://olympus.mygreatlearning.com/eportfolio?pb_id=18285)
 
