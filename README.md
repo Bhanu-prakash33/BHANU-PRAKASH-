@@ -11,6 +11,7 @@ A passionate AI/ML Engineer from India!
 ## 🌱 Currently Learning
 - Agentic AI
 - Generative AI
+- Deep Learning
 - Machine learning
 - Computer Vision
 
